@@ -55,9 +55,7 @@ session_unset();
                             <a href="#!" class="modal-close waves-effect waves-green btn-flat">Cancelar</a>
                         </form>
                         </div>
-                    </div>
-                            
-
+                    </div>                            
                 </tr>
                 <?php endwhile;
                 else:?>

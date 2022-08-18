@@ -1,0 +1,33 @@
+<-- App Oficina -->
+
+-> Clientes
+* Id
+* Nome
+* Endereco
+* Telefone
+* Email
+
+-> Servicos
+* Id
+* Descrição
+* Valor
+
+-> Veiculos
+* Id
+* Marca
+* Modelo
+* Ano
+* Cor
+* Placa
+
+-> Orcamento
+* Id
+* Cliente
+* Veiculo
+* Servicos
+* Observacao
+* Total
+
+-> ItemOrcamento
+* Id
+* IdServico
